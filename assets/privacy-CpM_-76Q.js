@@ -1,4 +1,4 @@
-import{r as n}from"./layout-Dp9gzVaC.js";const r="www.hno-neckarsulm.de",e="Praxis Dr. medic C.I. Radu, Facharzt für Hals-Nasen-Ohren-Heilkunde, Schloßgasse 1, 74172 Neckarsulm",i=`
+import{r as n}from"./layout-BFT35Ct4.js";const r="www.hno-neckarsulm.de",e="Praxis Dr. medic C.I. Radu, Facharzt für Hals-Nasen-Ohren-Heilkunde, Schloßgasse 1, 74172 Neckarsulm",i=`
   <section>
     <article class="privacy-article">
       <h2>I. Datenerhebung</h2>
